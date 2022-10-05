@@ -3,7 +3,10 @@
 ## Project: Recipes
 
 This project was part of the [Odin Project](https://www.theodinproject.com) Foundations Course.
+
 You can see the live preview [here.](https://eszdevstar.github.io/odin-recipes/)
+
+You can see this project with some basic css [here.](https://eszdevstar.github.io/odin-recipes-css/)
 
 The  images used in this project can be found [here](https://commons.wikimedia.org/wiki/Main_Page)
 
